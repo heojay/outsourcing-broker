@@ -29,3 +29,10 @@ You need to implement a system that allows website administrator, freelancers, a
 - The client should be able to confirm the request for completion. The client may accept or reject the request for completion. When accepting, the freelancer is rated.
 - The client may reject the request to complete the request, and the message is sent to the freelancer.
 - When the freelancer is rejected, the freelancer can check the reason for rejection and can request the completion of the request again.
+
+
+
+## System Flow Chart
+
+![system_flow](./system_flow.png)
+
